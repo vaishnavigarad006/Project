@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SecurePass — Web Based Password Strength Checker
 
 A runnable mini-project based on the uploaded SecurePass report. It uses **HTML, CSS, JavaScript and PHP**, and does not require MySQL. Passwords are analyzed for the current request only; the project does not save passwords or evaluation history.
@@ -85,3 +86,6 @@ The score follows the rule-based algorithm in the report; it is a learning aid a
 - **`php` not recognized:** use XAMPP Option B.
 - **Page loads but server-side status says browser-side analysis:** make sure you opened the page through PHP/XAMPP and that `api/evaluate.php` exists.
 - **Port 8000 already in use:** run `php -S localhost:8080` and open `http://localhost:8080`.
+=======
+# movie rating 
+>>>>>>> d70942574d598f99afde97ea9e34d5332c32e71c
